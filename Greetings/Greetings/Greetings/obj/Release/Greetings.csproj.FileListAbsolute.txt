@@ -1,0 +1,9 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\bin\Release\Greetings.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\bin\Release\Greetings.pdb
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\obj\Release\Greetings.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS401-Seminar4-Assignment-S4A1\Greetings\Greetings\Greetings\obj\Release\Greetings.pdb
